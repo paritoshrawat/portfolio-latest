@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Movie App",
+    "imageSrc": "projects/movie.png",
+    "description": "This is a project that fetches the latest movies api",
+    "skills": ["React", "Tailwind css", "Api calling"],
+    "demo": "https://chipper-croquembouche-32e93e.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Mern chat app",
+    "imageSrc": "projects/chat.png",
+    "description": "This is a fulstack chat app",
+    "skills": [
+      "React",
+      "vercel",
+      "Sass",
+      "socket.io",
+      "mongodb",
+      "Express",
+      "typescript"
+    ],
+    "demo": "https://chatapp-frontend-tau-eight.vercel.app/",
+    "source": "https://github.com/paritoshrawat/chatapp_frontend"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/currency.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://currencyconverter-ashen.vercel.app/",
+    "source": "https://github.com/paritoshrawat/currencyconverter"
+  }
+]
