@@ -14,9 +14,9 @@ const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Mern-stack Developer</h3>
               <p>
-                I am a frontend developer with experience in building responsive
+                I am a Mern-Stack developer with experience in building responsive
                 and optimized sites
               </p>
             </div>
